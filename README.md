@@ -3,7 +3,7 @@
 > Portfolio reference work derived from public job postings (CONTEXT-BOUND / PLANNED). Source jobs are requirements inspiration only; no client execution, fabrication, bench test or production claim is made.
 
 **Status:** INITIAL / EVIDENCE REQUIRED · **Workspace phase:** Phase 1 · **Source:** JOB-02 (+ JOB-06 interface concepts)
-**Handoff ID:** `CAN-ENERGY-PORTFOLIO-2026-09-15` · **Drive folder:** `Projelerim / Elektrik-Elektronik Mühendisliği / 15.09.2026 / 002-Proje Çıktıları / 02_usb_can_fd_interface`
+**Handoff ID:** `CAN-ENERGY-PORTFOLIO-2026-09-15`
 
 ## Goal
 Create a compact STM32-based dual-channel CAN/CAN FD engineering interface inspired by JOB-02 and interface concepts from JOB-06.
